@@ -1,10 +1,10 @@
 import React from 'react';
-import SeatGrid from './SeatGrid';
+import ReservarSillas from './ReservarSillas';
 
 const App = () => {
   return (
     <div className="App">
-      <SeatGrid />
+      <ReservarSillas />
     </div>
   );
 };
